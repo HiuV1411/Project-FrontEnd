@@ -203,7 +203,7 @@ ul {
 /* Thiết lập nền và căn chỉnh tiêu đề */
 .wd-page-title {
   background-color: #080a0a;
-  background-image: url(/Project-FrontEnd/img/img-page/anhcuaDucHieu/accessories-page-titleshoppingcart.jpg); /* Link ảnh nền */
+  background-image: url(/img/img-page/anhcuaDucHieu/accessories-page-titleshoppingcart.jpg); /* Link ảnh nền */
   background-size: cover;
   background-position: center;
   padding: 60px 0;
